@@ -1,0 +1,5 @@
+import{o as r,V as a,a3 as n,b as e,ax as d,ay as i,G as t}from"./modules/vue-CyQxGboM.js";import{I as u}from"./slidev/default-CTi74vrH.js";import{u as c,f as p}from"./slidev/context-Cc_XGJq5.js";import"./index-hNkO7Hxm.js";import"./modules/shiki-L8qUK4xH.js";const h={__name:"slides.md__slidev_15",setup(f){const{$clicksContext:l,$frontmatter:o}=c();return l.setup(),(m,s)=>(r(),a(u,d(i(t(p)(t(o),14))),{default:n(()=>[...s[0]||(s[0]=[e("div",{class:"slide-head"},[e("div",{class:"eyebrow"},"14 / PSEUDO-ELEMENTS"),e("h2",null,"Useful pseudo-elements")],-1),e("div",{class:"pseudo-grid pseudo-grid-two"},[e("div",{class:"pseudo-card"},[e("code",null,"::first-line"),e("p",null,"Style the first line of text"),e("pre",null,[e("code",null,`p::first-line {
+  font-weight: 700;
+}`)])]),e("div",{class:"pseudo-card"},[e("code",null,"::selection"),e("p",null,"Style text selected by the user"),e("pre",null,[e("code",null,`::selection {
+  background: gold;
+}`)])])],-1)])]),_:1},16))}};export{h as default};

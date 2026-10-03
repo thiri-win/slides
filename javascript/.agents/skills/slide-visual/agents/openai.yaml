@@ -1,0 +1,3 @@
+interface:
+  display_name: "Slide Visual"
+  short_description: "Apply the established Slidev visual style"
